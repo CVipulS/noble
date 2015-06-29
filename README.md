@@ -1,4 +1,4 @@
-# my-theme-syntax theme
+# Noble syntax theme
 
 Syntax theme I am using alongside https://atom.io/packages/language-erlang .
 

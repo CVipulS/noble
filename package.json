@@ -1,0 +1,16 @@
+{
+  "name": "noble",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax theme I am using alongside "
+    "https://atom.io/packages/language-erlang",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/VSChawathe/noble",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
